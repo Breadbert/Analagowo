@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "134AHeqWz3EZIBLHHFYBXLTPcFR1q8Vmle6enmxaAMg=",
+  "Source": "Analogowo.Server",
+  "BasePath": "_content/Analogowo.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\bobas\\Desktop\\WSB\\Tworzenie interfejsów użytkownika\\Analogowo\\analogowo.client\\analogowo.client.esproj",
+      "Version": 2,
+      "Source": "analogowo.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

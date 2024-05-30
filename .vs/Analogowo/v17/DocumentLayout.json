@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bobas\\Desktop\\WSB\\Tworzenie interfejs\u00F3w u\u017Cytkownika\\Analogowo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B27BFACE-F663-4C5D-85BA-870861C5E46A}|analogowo.client\\analogowo.client.esproj|c:\\users\\bobas\\desktop\\wsb\\tworzenie interfejs\u00F3w u\u017Cytkownika\\analogowo\\analogowo.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B27BFACE-F663-4C5D-85BA-870861C5E46A}|analogowo.client\\analogowo.client.esproj|solutionrelative:analogowo.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B27BFACE-F663-4C5D-85BA-870861C5E46A}|analogowo.client\\analogowo.client.esproj|c:\\users\\bobas\\desktop\\wsb\\tworzenie interfejs\u00F3w u\u017Cytkownika\\analogowo\\analogowo.client\\src\\product\\inventorygraphicalpreview.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B27BFACE-F663-4C5D-85BA-870861C5E46A}|analogowo.client\\analogowo.client.esproj|solutionrelative:analogowo.client\\src\\product\\inventorygraphicalpreview.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B27BFACE-F663-4C5D-85BA-870861C5E46A}|analogowo.client\\analogowo.client.esproj|c:\\users\\bobas\\desktop\\wsb\\tworzenie interfejs\u00F3w u\u017Cytkownika\\analogowo\\analogowo.client\\src\\product\\inventory.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B27BFACE-F663-4C5D-85BA-870861C5E46A}|analogowo.client\\analogowo.client.esproj|solutionrelative:analogowo.client\\src\\product\\inventory.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B27BFACE-F663-4C5D-85BA-870861C5E46A}|analogowo.client\\analogowo.client.esproj|c:\\users\\bobas\\desktop\\wsb\\tworzenie interfejs\u00F3w u\u017Cytkownika\\analogowo\\analogowo.client\\src\\layout\\layout.jsx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B27BFACE-F663-4C5D-85BA-870861C5E46A}|analogowo.client\\analogowo.client.esproj|solutionrelative:analogowo.client\\src\\layout\\layout.jsx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.jsx",
+              "DocumentMoniker": "C:\\Users\\bobas\\Desktop\\WSB\\Tworzenie interfejs\u00F3w u\u017Cytkownika\\Analogowo\\analogowo.client\\src\\main.jsx",
+              "RelativeDocumentMoniker": "analogowo.client\\src\\main.jsx",
+              "ToolTip": "C:\\Users\\bobas\\Desktop\\WSB\\Tworzenie interfejs\u00F3w u\u017Cytkownika\\Analogowo\\analogowo.client\\src\\main.jsx",
+              "RelativeToolTip": "analogowo.client\\src\\main.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-04-19T15:00:32.514Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Inventory.jsx",
+              "DocumentMoniker": "C:\\Users\\bobas\\Desktop\\WSB\\Tworzenie interfejs\u00F3w u\u017Cytkownika\\Analogowo\\analogowo.client\\src\\product\\Inventory.jsx",
+              "RelativeDocumentMoniker": "analogowo.client\\src\\product\\Inventory.jsx",
+              "ToolTip": "C:\\Users\\bobas\\Desktop\\WSB\\Tworzenie interfejs\u00F3w u\u017Cytkownika\\Analogowo\\analogowo.client\\src\\product\\Inventory.jsx",
+              "RelativeToolTip": "analogowo.client\\src\\product\\Inventory.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-05-24T12:16:04.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InventoryGraphicalPreview.jsx",
+              "DocumentMoniker": "C:\\Users\\bobas\\Desktop\\WSB\\Tworzenie interfejs\u00F3w u\u017Cytkownika\\Analogowo\\analogowo.client\\src\\product\\InventoryGraphicalPreview.jsx",
+              "RelativeDocumentMoniker": "analogowo.client\\src\\product\\InventoryGraphicalPreview.jsx",
+              "ToolTip": "C:\\Users\\bobas\\Desktop\\WSB\\Tworzenie interfejs\u00F3w u\u017Cytkownika\\Analogowo\\analogowo.client\\src\\product\\InventoryGraphicalPreview.jsx",
+              "RelativeToolTip": "analogowo.client\\src\\product\\InventoryGraphicalPreview.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE4AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-05-22T14:41:05.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Layout.jsx",
+              "DocumentMoniker": "C:\\Users\\bobas\\Desktop\\WSB\\Tworzenie interfejs\u00F3w u\u017Cytkownika\\Analogowo\\analogowo.client\\src\\layout\\Layout.jsx",
+              "RelativeDocumentMoniker": "analogowo.client\\src\\layout\\Layout.jsx",
+              "ToolTip": "C:\\Users\\bobas\\Desktop\\WSB\\Tworzenie interfejs\u00F3w u\u017Cytkownika\\Analogowo\\analogowo.client\\src\\layout\\Layout.jsx",
+              "RelativeToolTip": "analogowo.client\\src\\layout\\Layout.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-04-30T10:55:10.173Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

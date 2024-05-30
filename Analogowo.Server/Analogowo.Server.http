@@ -1,0 +1,6 @@
+@Analogowo.Server_HostAddress = http://localhost:5084
+
+GET {{Analogowo.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
